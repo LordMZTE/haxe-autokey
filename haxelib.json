@@ -1,0 +1,12 @@
+{
+    "name": "autokey",
+    "license": "GPL",
+    "contributors": ["LordMZTE"],
+    "url": "https://github.com/lordmzte/haxe-autokey",
+    "tags": ["autokey", "pythons", "macro"],
+    "version": "1.0.0",
+    "description": "Haxe bindings for AutoKey, to write scripts in Haxe",
+    "classPath": "src",
+    "releasenote": "Initial relase"
+}
+
